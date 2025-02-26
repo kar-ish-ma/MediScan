@@ -71,6 +71,8 @@ MediScan is an advanced health analytics platform that leverages Machine Learnin
 
 ### Result Display:
 - The processed text (both OCR and handwritten) is displayed to the user in a clean and readable format.
+  ![Alt text](https://github.com/kar-ish-ma/MediScan/blob/main/mediScanimag.jpg)
+
 
 ## Setup and Installation
 
